@@ -1,0 +1,17 @@
+.person {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.male {
+    background-color: blue;
+}
+
+.female {
+    background-color: pink;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
